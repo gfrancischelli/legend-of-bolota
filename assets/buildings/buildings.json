@@ -1,6 +1,6 @@
 {"frames": {
 
-"grass_bush.bmp":
+"bridge_center.bmp":
 {
 	"frame": {"x":0,"y":0,"w":16,"h":16},
 	"rotated": false,
@@ -9,7 +9,7 @@
 	"sourceSize": {"w":16,"h":16},
 	"pivot": {"x":0.5,"y":0.5}
 },
-"grass_main.bmp":
+"bridge_left.bmp":
 {
 	"frame": {"x":16,"y":0,"w":16,"h":16},
 	"rotated": false,
@@ -18,7 +18,7 @@
 	"sourceSize": {"w":16,"h":16},
 	"pivot": {"x":0.5,"y":0.5}
 },
-"grass_rock.bmp":
+"bridge_right.bmp":
 {
 	"frame": {"x":32,"y":0,"w":16,"h":16},
 	"rotated": false,
@@ -27,7 +27,7 @@
 	"sourceSize": {"w":16,"h":16},
 	"pivot": {"x":0.5,"y":0.5}
 },
-"grass_water_bottom_left.bmp":
+"fence_bottom_center.bmp":
 {
 	"frame": {"x":48,"y":0,"w":16,"h":16},
 	"rotated": false,
@@ -36,7 +36,7 @@
 	"sourceSize": {"w":16,"h":16},
 	"pivot": {"x":0.5,"y":0.5}
 },
-"grass_water_bottom_right.bmp":
+"fence_bottom_left.bmp":
 {
 	"frame": {"x":64,"y":0,"w":16,"h":16},
 	"rotated": false,
@@ -45,7 +45,7 @@
 	"sourceSize": {"w":16,"h":16},
 	"pivot": {"x":0.5,"y":0.5}
 },
-"grass_water_top_left.bmp":
+"fence_bottom_right.bmp":
 {
 	"frame": {"x":80,"y":0,"w":16,"h":16},
 	"rotated": false,
@@ -54,7 +54,7 @@
 	"sourceSize": {"w":16,"h":16},
 	"pivot": {"x":0.5,"y":0.5}
 },
-"grass_water_top_right.bmp":
+"fence_center_left.bmp":
 {
 	"frame": {"x":96,"y":0,"w":16,"h":16},
 	"rotated": false,
@@ -63,7 +63,7 @@
 	"sourceSize": {"w":16,"h":16},
 	"pivot": {"x":0.5,"y":0.5}
 },
-"grass_weed.bmp":
+"fence_center_right.bmp":
 {
 	"frame": {"x":112,"y":0,"w":16,"h":16},
 	"rotated": false,
@@ -72,7 +72,7 @@
 	"sourceSize": {"w":16,"h":16},
 	"pivot": {"x":0.5,"y":0.5}
 },
-"water_grass_bottom_center.bmp":
+"fence_top_center.bmp":
 {
 	"frame": {"x":128,"y":0,"w":16,"h":16},
 	"rotated": false,
@@ -81,7 +81,7 @@
 	"sourceSize": {"w":16,"h":16},
 	"pivot": {"x":0.5,"y":0.5}
 },
-"water_grass_bottom_left.bmp":
+"fence_top_left.bmp":
 {
 	"frame": {"x":144,"y":0,"w":16,"h":16},
 	"rotated": false,
@@ -90,63 +90,9 @@
 	"sourceSize": {"w":16,"h":16},
 	"pivot": {"x":0.5,"y":0.5}
 },
-"water_grass_bottom_right.bmp":
+"fence_top_right.bmp":
 {
 	"frame": {"x":160,"y":0,"w":16,"h":16},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
-	"sourceSize": {"w":16,"h":16},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"water_grass_center_left.bmp":
-{
-	"frame": {"x":176,"y":0,"w":16,"h":16},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
-	"sourceSize": {"w":16,"h":16},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"water_grass_center_right.bmp":
-{
-	"frame": {"x":192,"y":0,"w":16,"h":16},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
-	"sourceSize": {"w":16,"h":16},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"water_mid.bmp":
-{
-	"frame": {"x":208,"y":0,"w":16,"h":16},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
-	"sourceSize": {"w":16,"h":16},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"water_top_center.bmp":
-{
-	"frame": {"x":224,"y":0,"w":16,"h":16},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
-	"sourceSize": {"w":16,"h":16},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"water_top_left.bmp":
-{
-	"frame": {"x":240,"y":0,"w":16,"h":16},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
-	"sourceSize": {"w":16,"h":16},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"water_top_right.bmp":
-{
-	"frame": {"x":256,"y":0,"w":16,"h":16},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
@@ -156,10 +102,10 @@
 "meta": {
 	"app": "http://www.codeandweb.com/texturepacker",
 	"version": "1.0",
-	"image": "terrain.png",
+	"image": "buildings.png",
 	"format": "RGBA8888",
-	"size": {"w":272,"h":16},
+	"size": {"w":176,"h":16},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:417648ef237f25cfbd1d07accbe9c303:acaf2537d900deba18171952dbc11cac:a52c91d73586a2a634ceb55ad22f4949$"
+	"smartupdate": "$TexturePacker:SmartUpdate:9e37e4fee7e9f4f5fc9ad725b1aa8433:68982f585135ed9d82cffe67f2880fe0:8f670863a0ac9ac15291caba2801fd50$"
 }
 }
