@@ -1,0 +1,297 @@
+[
+"avocado_tree.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"grass_bush.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"grass_main.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"grass_rock.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"grass_tree_bottom-left.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"grass_tree_bottom_right.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"grass_tree_top_left.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"grass_tree_top_right.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"grass_water_bottom_left.bmp":{
+water: true,
+harvest: false,
+buildable: false,
+},
+"grass_water_bottom_right.bmp":{
+water: true,
+harvest: false,
+buildable: false,
+},
+"grass_water_top_left.bmp":{
+water: true,
+harvest: false,
+buildable: false,
+},
+"grass_water_top_right.bmp":{
+water: true,
+harvest: false,
+buildable: false,
+},
+"grass_weed.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"soil_mid.bmp":{
+water: false,
+harvest: true,
+buildable: true,
+},
+"tree_grass_bottom_center.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"tree_grass_bottom_left.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"tree_grass_bottom_right.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"tree_grass_center_left.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"tree_grass_center_right.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"tree_grass_top_center.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"tree_grass_top_left.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"tree_grass_top_right.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"tree_mid.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"trunk_grass_bottom_center.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"trunk_grass_bottom_left.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"trunk_grass_bottom_right.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"trunk_tree_top_left.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"trunk_tree_top_right.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"water_grass_bottom_center.bmp":{
+water: true,
+harvest: false,
+buildable: false,
+},
+"water_grass_bottom_left.bmp":{
+water: true,
+harvest: false,
+buildable: false,
+},
+"water_grass_bottom_right.bmp":{
+water: true,
+harvest: false,
+buildable: false,
+},
+"water_grass_center_left.bmp":{
+water: true,
+harvest: false,
+buildable: false,
+},
+"water_grass_center_right.bmp":{
+water: true,
+harvest: false,
+buildable: false,
+},
+"water_mid.bmp":{
+water: true,
+harvest: false,
+buildable: false,
+},
+"water_top_center.bmp":{
+water: true,
+harvest: false,
+buildable: false,
+},
+"water_top_left.bmp":{
+water: true,
+harvest: false,
+buildable: false,
+},
+"water_top_right.bmp":{
+water: true,
+harvest: false,
+buildable: false,
+},
+"wheat.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"bridge_building_site.bmp":{
+water: false,
+harvest: false,
+buildable: true,
+},
+"bridge_center.bmp":{
+water: false,
+harvest: false,
+buildable: true,
+},
+"bridge_left.bmp":{
+water: false,
+harvest: false,
+buildable: true,
+},
+"bridge_right.bmp":{
+water: false,
+harvest: false,
+buildable: true,
+},
+"empty_building_site.bmp":{
+water: false,
+harvest: false,
+buildable: true,
+},
+"empty_house_site.bmp":{
+water: false,
+harvest: false,
+buildable: true,
+},
+"fence_bottom_center.bmp":{
+water: false,
+harvest: false,
+buildable: true,
+},
+"fence_bottom_left.bmp":{
+water: false,
+harvest: false,
+buildable: true,
+},
+"fence_bottom_right.bmp":{
+water: false,
+harvest: false,
+buildable: true,
+},
+"fence_center_left.bmp":{
+water: false,
+harvest: false,
+buildable: true,
+},
+"fence_center_right.bmp":{
+water: false,
+harvest: false,
+buildable: true,
+},
+"fence_top_center.bmp":{
+water: false,
+harvest: false,
+buildable: true,
+},
+"fence_top_left.bmp":{
+water: false,
+harvest: false,
+buildable: true,
+},
+"fence_top_right.bmp":{
+water: false,
+harvest: false,
+buildable: true,
+},
+"firepit.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"house_1.bmp":{
+water: false,
+harvest: false,
+buildable: true,
+},
+"house_2.bmp":{
+water: false,
+harvest: false,
+buildable: true,
+},
+"house_3.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"silo_1.bmp":{
+water: false,
+harvest: false,
+buildable: true,
+},
+"silo_2.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+"well.bmp":{
+water: false,
+harvest: false,
+buildable: false,
+},
+]
