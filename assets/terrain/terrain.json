@@ -332,14 +332,23 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
 	"sourceSize": {"w":16,"h":16},
 	"pivot": {"x":0.5,"y":0.5}
+},
+"wheat.bmp":
+{
+	"frame": {"x":0,"y":320,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
 }},
 "meta": {
 	"app": "http://www.codeandweb.com/texturepacker",
 	"version": "1.0",
 	"image": "terrain.png",
 	"format": "RGBA8888",
-	"size": {"w":32,"h":320},
+	"size": {"w":32,"h":352},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:9d927f85e6f0291a1ef1d8a30d42e18d:580c82339ece5c88535d053c60ef968a:a52c91d73586a2a634ceb55ad22f4949$"
+	"smartupdate": "$TexturePacker:SmartUpdate:0690c3afd0c8bbae256a90a1066b1b15:4fdd196f7b3be18e07e67b07ca478048:a52c91d73586a2a634ceb55ad22f4949$"
 }
 }
